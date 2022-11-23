@@ -1,5 +1,6 @@
 # Technical-Range-Website
 In This website we used HTML , CSS and Javascript.
 
-![1](https://user-images.githubusercontent.com/82877515/203635289-2979a03f-4c58-4bfb-a87b-1080a936e4f1.jpg)
-![2](https://user-images.githubusercontent.com/82877515/203635303-40f921c1-7580-4eee-bffa-a63a0f536bcf.jpg)
+
+![1](https://user-images.githubusercontent.com/82877515/203636224-c97d4ac1-6f1e-4312-a74a-8a0b8f34cc93.jpg)
+![2](https://user-images.githubusercontent.com/82877515/203636237-cffdd89b-7b31-468a-8af6-30f93961ce92.jpg)
