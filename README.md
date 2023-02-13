@@ -1,4 +1,4 @@
-# Technical-Range-Website
+# Technical Range Website
 In This website we used HTML , CSS and Javascript. This website is responsive in nature.
 
 
